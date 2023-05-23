@@ -19,4 +19,4 @@ if orel < reshka:
 elif orel == reshka:
     print("Количество орлов и решек одинаково, по {orel} штук")
 else:
-    print(("Переверните {reshka} монет с решки на орла"))
+    print("Переверните {reshka} монет с решки на орла")
