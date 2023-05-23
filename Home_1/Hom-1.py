@@ -15,8 +15,8 @@ for i in range(N):
     else:
         reshka += 1
 if orel < reshka:
-    print(f"Переверните {orel} монет с орла на решку")
+    print("Переверните {orel} монет с орла на решку")
 elif orel == reshka:
-    print(f"Количество орлов и решек одинаково, по {orel} штук")
+    print("Количество орлов и решек одинаково, по {orel} штук")
 else:
-    print((f"Переверните {reshka} монет с решки на орла"))
+    print(("Переверните {reshka} монет с решки на орла"))
